@@ -14,5 +14,4 @@ CHIP HalfAdder {
 
     PARTS:
     // Put you code here:
-    //2nd test change
 }
